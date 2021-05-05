@@ -1,0 +1,22 @@
+languageCode = "en-us"
+title = "Lane SRA"
+theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[[menu.shortcuts]]
+name = "Twitter"
+url = "https://twitter.com/LaneCountySRA"
+weight = 10
+
+[[menu.shortcuts]]
+name = "Instagram"
+url = "https://www.instagram.com/lanecountysra/"
+weight = 20
+
+
+[[menu.shortcuts]]
+name = "National"
+url = "https://socialistra.org"
+weight = 30
